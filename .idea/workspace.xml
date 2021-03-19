@@ -1,39 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ed5e752-8bcb-4eb9-b9ea-edd59d5062cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/MainLayout.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/navigation.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interfaces/IPost.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_document.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/create/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/edit/[id].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/post/[id].tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/actions/postActions.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/reducers/postReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/reducers/rootReducer.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/store.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redux/types.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/posts.services.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/Global.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/container.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
-    </list>
+    <list default="true" id="9ed5e752-8bcb-4eb9-b9ea-edd59d5062cc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,7 +35,7 @@
       <updated>1616010900772</updated>
       <workItem from="1616010902940" duration="33884000" />
       <workItem from="1616146375316" duration="5737000" />
-      <workItem from="1616152129003" duration="1238000" />
+      <workItem from="1616152129003" duration="1483000" />
     </task>
     <servers />
   </component>
